@@ -71,12 +71,3 @@ Contributions are welcome! Please follow these steps:
 3. Commit your changes (`git commit -am 'Add new feature'`).
 4. Push to the branch (`git push origin feature/my-feature`).
 5. Create a pull request.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Author
-Created by **Gakkiopl**.
-```
-
-This `README.md` file covers the main aspects of your plugin, including installation, usage in both Blueprints and C++, and basic contribution guidelines.
