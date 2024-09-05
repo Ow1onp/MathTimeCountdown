@@ -1,0 +1,7 @@
+{
+	"OutputFiles": [
+		"MathTime.gen.cpp.obj",
+		"MathTime.init.gen.cpp.obj",
+		"MathTime.cpp.obj"
+	]
+}
