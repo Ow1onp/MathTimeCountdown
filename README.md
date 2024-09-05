@@ -29,6 +29,8 @@ MathTimeCountdown is an Unreal Engine plugin that provides a flexible countdown 
 2. Place the `MathTime` folder into your Unreal project under `Plugins/`.
 3. Enable the plugin in **Edit > Plugins**.
 
+![Description](3.png)
+
 ## Usage
 
 ### 1. Using the Countdown in Blueprints
